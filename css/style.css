@@ -1,0 +1,38 @@
+
+    body{
+        background-color: lightgoldenrodyellow ;
+        text-align: center;
+    }
+    
+    hr{
+       
+        background-color: white;
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 6%;
+    }
+
+    h1, h2, h3{
+        color: #011414;
+    }
+
+    p{
+        color: black;
+    }
+
+    li{
+        list-style: circle;
+        ;
+    }
+
+    img{
+        border-style: solid;
+        border-bottom-style: outset;
+        
+    }
+
+    table{
+        margin-left: auto;
+        margin-right: auto;
+    }
